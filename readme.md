@@ -4,6 +4,10 @@
 İlk yardım eğitimini hem öğreten hem de ölçen, Unity ile geliştirilecek bir oyunlaştırma projesi. Oyuncu; etkileşimli mikro dersler, gerçekçi senaryolar ve zaman baskısı altındaki sınavlarla temel ilk yardım becerilerini (CPR, kanama kontrolü, hava yolu tıkanıklığı, şok, yanık, kırık/çıkık, epilepsi nöbeti, zehirlenme, AED kullanımı vb.) öğrenir ve pekiştirir.
 
 ---
+![ExampleUI](https://github.com/cmlcrn17/EmergencyResponseTraining/ilkyardim.jpeg)
+
+
+
 
 ## 1) Hedef Kitle & Platform
 
